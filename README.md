@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/superprince90" target="blank"><img src="https://img.shields.io/twitter/follow/superprince90?logo=twitter&style=for-the-badge" alt="superprince90" /></a> </p>
 
-- 🌱 I’m currently learning **Unity , **C# , **OPENCV4
+- 🌱 I’m currently learning Unity , C# , OPENCV4
 
 - 💬 Ask me about **Go , NodeJS , Solidity , Hardhat**
 
