@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fathi ElKhalil</h1>
-<h3 align="center">Software developer & Data analyst @ UAE - Dubai </h3>
+<h3 align="center">Software developer & Data Analyst @ UAE - Dubai </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fathikhalil&label=Profile%20views&color=0e75b6&style=flat" alt="fathikhalil" /> </p>
