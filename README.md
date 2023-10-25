@@ -17,8 +17,6 @@
 <a href="https://twitter.com/superprince90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="superprince90" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fathi elkhalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathi elkhalil" height="30" width="40" /></a>
 </p>
-<a href="https://www.buymeacoffee.com/fathikhalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathi elkhalil" height="30" width="40" /></a>
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/animated-chock-coding-c78f6elj32sfoi8q.html">
 
